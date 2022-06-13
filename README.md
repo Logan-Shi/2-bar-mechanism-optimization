@@ -11,7 +11,7 @@ Followings are some of the results under different damping
 |-|-|
 |![3](results/0.01-32.539.gif) **C=0.01Nm/(rad/s) and optimized mechanism**|![4](results/0.04.gif) **C=0.04Nm/(rad/s) and optimized mechanism**|
 
-# Detailed discription
+# Detailed description
 
 [report](media/report.pdf)
 
